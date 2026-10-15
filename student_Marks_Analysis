@@ -1,0 +1,35 @@
+# 🎓 Student Marks Analysis using MySQL #
+
+## 📌 Project Overview
+This project analyzes student marks across five subjects:
+Tamil, English, Mathematics, Science, and Social Science.
+
+## 🛠️ Tools Used
+- MySQL
+- MySQL Workbench
+
+## 💻 SQL Concepts Used
+- Database and Table Creation
+- INSERT INTO and SELECT
+- CASE WHEN for Pass/Fail
+- Total Marks Calculation
+- Percentage Calculation using ROUND()
+- RANK() Window Function
+- Aggregate Functions: COUNT(), AVG(), MAX(), MIN()
+- GROUP BY and HAVING
+- WHERE Clause
+
+## 📊 Key Features
+- Calculate total marks and percentages.
+- Identify students as Pass or Fail.
+- Rank students based on total marks.
+- Analyze average, highest, and lowest marks.
+- Filter student records using SQL conditions.
+
+## 🎯 Learning Outcome
+Practiced SQL queries to analyze student performance
+and generate meaningful results.
+
+## 👩‍💻 Author
+Ramyashri V
+Aspiring Data Analyst
