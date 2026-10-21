@@ -35,9 +35,17 @@ Project Objective
 
 To analyze retail sales performance and present useful business insights through an interactive Power BI dashboard.
 
+## Dashboard Preview
+
+Retail Sales Analytics Dashboard(Retail.png)
+
+## Dashboard Report
+
+View Retail Sales Analytics Dashboard (PDF)(retail.pdf)
+
 Author
-RAMYASHRI V
 
-
+Ramyashri V
+Aspiring Data Analyst
 Ramyashri V
 Aspiring Data Analyst
